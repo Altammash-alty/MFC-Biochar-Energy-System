@@ -18,4 +18,4 @@ MFC → BMS → Battery → RC Car
 - Practical demonstration using RC car
 
 ## Report
-[View Full Report](PDF_LINK)
+[View Full Report](https://github.com/Altammash-alty/MFC-Biochar-Energy-System/blob/aee02b7f6955fa7e43f435cb6125014c59348d89/MFC_Report.pdf)
